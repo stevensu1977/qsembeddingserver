@@ -1,0 +1,8 @@
+users:
+   - email: business@demo.com
+     password: sssssssss
+     boards: ["111111","222222"]
+   - email: it@demo.com
+     password: sssssssss
+     dashboards:   [111111,222222]
+  
