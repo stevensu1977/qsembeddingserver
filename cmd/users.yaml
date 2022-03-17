@@ -1,0 +1,10 @@
+users:
+    - email: it@demo.com
+      password: ebfc7910077770c8340f63cd2dca2ac1f120444f
+      dashboards:
+        - "a3a20978-cee0-43e6-994e-701838a5b63d"
+    - email: business@demo.com
+      password: ebfc7910077770c8340f63cd2dca2ac1f120444f
+      dashboards:
+        - "5558d74f-1a50-40d3-8a59-959f87156b4e"
+        - "b017f0a7-6cda-4d28-b861-61a46a512f31"
